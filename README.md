@@ -25,3 +25,7 @@ Install required packages using:
 
 ```bash
 pip install pyttsx3 PyPDF2
+```
+
+## *Author Name*	
+[Mehak Kadyan](https://github.com/Mehakkadyan2)
